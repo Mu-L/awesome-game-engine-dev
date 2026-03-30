@@ -1275,6 +1275,7 @@ _Software to help with game engine / video game development._
 
 ### AI Assistants
 - 💸 [Coplay](https://www.coplay.dev?ref=github&utm_source=stevinz_awesome_game_engine_dev) - Multi-agent AI Assistant for all aspects of Unity game developement.
+- 💸 [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 - 💸 [Unity Muse](https://unity.com/products/muse) - Unity's suite of AI products.
 
 ### Animation Software
