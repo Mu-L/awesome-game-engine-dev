@@ -1291,6 +1291,7 @@ _Software to help with game engine / video game development._
     - 🆓 [Cakewalk](https://www.bandlab.com/products/cakewalk) - Complete music production package.
     - 🆓 [FamiStudio](https://famistudio.org) - Music editor targeted at chiptune artists and NES homebrewers. [[Source](https://github.com/BleuBleu/FamiStudio)]
     - 💸 [fmod](https://www.fmod.com) - Popular (_Hades_, _Celeste_, _Untitled Goose Game_) audio software for games.
+    - 💸 [KiraStudio](https://kirastudio.org/) - Lightweight, cross-platform music studio built for clarity, automation, and sound creation.
     - 🆓 [LMMS](https://lmms.io) 🔥 - Cross-platform music production software. [[Source](https://github.com/lmms/lmms)]
     - 🆓 [Sound Box](https://gitlab.com/mbitsnbites/soundbox) - Compose synthetic music in your browser, good for small demos.
     - 🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) - Music generator for use in tiny JavaScript apps. [[Source](https://github.com/keithclark/ZzFXM)]
