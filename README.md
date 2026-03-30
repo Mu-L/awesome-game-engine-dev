@@ -1084,7 +1084,7 @@ _Successful open source video games to pick apart and gain knowledge._
 - 🔒 [Doom 3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release.
 - 🔒 [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) - Classic roguelike adventure. [[Play](https://crawl.develz.org/)]
 - 🎉 [Etheral Legends](https://github.com/Soverance/EtherealLegends) - Indie Action RPG built with _Unreal Engine 4_. [[Steam](https://store.steampowered.com/app/428980/Ethereal_Legends/)]
-- 🔒 [GemRB](https://github.com/gemrb/gemrb) - Open-source implementation of _Bioware_’s Infinity Engine.
+- 🔒 [GemRB](https://github.com/gemrb/gemrb) - Open-source implementation of _Bioware_'s Infinity Engine.
 - 🎉 [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open source engine. [[Play](http://xproger.info/projects/OpenLara/)]
 - 🎉 [TeeWorlds](https://github.com/teeworlds/teeworlds) - Retro multiplayer shooter. [[Website](https://teeworlds.com/)]
 - 🔒 [zDoom](https://github.com/ZDoom/gzdoom) - Modern, feature centric port for all Doom engine games.
