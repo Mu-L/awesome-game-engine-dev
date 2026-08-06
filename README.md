@@ -970,7 +970,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Box2d.js](https://github.com/kripken/box2d.js/) - Box2D to ported as WebAssembly.
     - 🎉 [box3d-wasm](https://github.com/monteslu/box3d-wasm) - Box3D to ported as WebAssembly.
     - 🎉 [Cannon-es](https://github.com/pmndrs/cannon-es) - Maintained fork of [Cannon.js](https://github.com/schteppe/cannon.js) 3D physics engine. [[Demos](https://pmndrs.github.io/cannon-es/)]
-    - 🎉 [Goblin Physics](https://github.com/chandlerprall/GoblinPhysics) - 3D physics engine written from the ground up in JavaScript. [[Demos](http://www.goblinphysics.com/)]
+    - 🎉 [Goblin Physics](https://github.com/chandlerprall/GoblinPhysics) - 3D physics engine written from the ground up in JavaScript.
     - 🎉 [JoltPhysics.js](https://github.com/jrouwe/JoltPhysics.js) - Port of _Jolt Physics_ to JavaScript (as WebAssembly). [[Demos](https://jrouwe.github.io/JoltPhysics.js/)]
     - 🎉 [Matter.js](https://github.com/liabru/matter-js) - Featured 2D physics engine for the web. [[Demos](https://brm.io/matter-js/)]
     - 🎉 [Oimo.js](https://github.com/lo-th/Oimo.js) - Lightweight 3D physics engine. [[Demos](http://lo-th.github.io/Oimo.js)]
