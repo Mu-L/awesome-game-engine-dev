@@ -41,6 +41,8 @@ _Exploring specialty application / game engine / game development topics and fea
 ### Lighting / Shadows
 - Lighting 2D
     - 📚 [Lighting a 2D Game](http://www.wholehog-games.com/devblog/2013/06/07/lighting-in-a-2d-game/) - Proper 2D lighting with diffuse, self illumination and normal maps.
+- Shadows 3D
+    - 📚 [Screen Space Shadows](https://panoskarabelas.com/posts/screen_space_shadows/) - Great exploration of screen space shadows.
 - Volumetric
     - 📚 [Volumetric Light Approximation](http://bkcore.com/blog/3d/webgl-three-js-volumetric-light-godrays.html) - Volumetric light approximation (godrays) with Three.js.
 
@@ -57,6 +59,9 @@ _Exploring specialty application / game engine / game development topics and fea
     - 🎉 [Direct Computational Noise](https://weber.itn.liu.se/~stegu/jgt2011/supplement.pdf) - GLSL 2D simplex noise function many games use. [[Source](https://github.com/ashima/webgl-noise/)]
 - Wireframe
     - 📚 [Easy Wireframe Display](https://web.archive.org/web/20190220052115/http://codeflow.org/entries/2012/aug/02/easy-wireframe-display-with-barycentric-coordinates/) - Rendering triangles as wireframe using [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system).
+
+### Signed Distance Fields
+- 📚 [Basic 2D SDFs](https://www.ronja-tutorials.com/post/034-2d-sdf-basics/) - Basics of rendering 2D shapes with SDFs in shaders.
 
 ### Tiling
 - 📚 [Blob Tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) - Tutorial on 2D edge and corner matched tilesets.
