@@ -229,6 +229,16 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
     - 🌎 [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
+- Developer Blogs
+    - 📚 [Bits, Pixels, Cycles and More](https://zeux.io/) - Graphics, optimization and low-level engine programming.
+    - 📚 [Bitsquid Development Blog](https://bitsquid.blogspot.com/) - Archived engine architecture, rendering and tools articles.
+    - 📚 [cybereality](https://cybereality.com/) - Custom 3D engine development, graphics and game technology.
+    - 📚 [Digital Grove](https://www.dgtlgrove.com/) - Low-level programming, tools, UI, debugging and game engines.
+    - 📚 [Harold Serrano](https://www.haroldserrano.com/blog) - Engine architecture, graphics and building the _Untold Engine_.
+    - 📚 [Our Machinery Blog Archive](https://ruby0x1.github.io/machinery_blog_archive/) - Engine architecture, rendering, ECS and tooling.
+    - 📚 [The Danger Zone](https://therealmjp.github.io/posts/) - Real-time rendering, GPU programming and graphics APIs.
+    - 📚 [The ryg blog](https://fgiesen.wordpress.com/) - Low-level programming, graphics, compression and computer architecture.
+    - 📚 [Wicked Engine Devblog](https://turanszkij.wordpress.com/category/devblog/) - Rendering, graphics and engine development in _Wicked Engine_.
 - Education Portals
     - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
 
@@ -1037,7 +1047,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [ursina](https://github.com/pokepetter/ursina) - Game engine powered by Python and _Panda3D_.
 - Python: Game Framework
     - 🎉 [Arcade](https://github.com/pythonarcade/arcade) - Easy to use library for creating 2D arcade games.
-    - 🎉 [Panda3D](https://github.com/panda3d/panda3d) - Powerful, mature game engine developed by _Disney_ and _Carnegie Mellon_. [[Website](https://www.panda3d.org)]
+    - 🎉 [Panda3D](https://github.com/panda3d/panda3d) - Powerful, mature game engine developed by _Disney_ and _Carnegie Mellon_.
     - 🔒 [Pygame](https://github.com/pygame/pygame) - Game & multimedia app framework, built on _SDL_.
     - 🎉 [Pygcurse](https://github.com/asweigart/pygcurse) - [Curses-like](https://en.wikipedia.org/wiki/Curses_%28programming_library%29) library for text adventures / roguelikes. [[Website](http://inventwithpython.com/pygcurse/)]
 - Python: Gui
@@ -1105,7 +1115,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Swift: Game Framework
     - 🎉 [GateEngine](https://github.com/STREGAsGate/GateEngine) - Cross-platform game engine that allows you to build 2D and 3D games.
     - 🎉 [Glide](https://github.com/cocoatoucher/Glide) - Engine for making 2D games with practical examples and tutorials.
-    - 🎉 [Imagine Engine](https://github.com/JohnSundell/ImagineEngine) - Fast 2D game engine for _Apple_'s platforms.
+    - 🎉 [Imagine Engine](https://github.com/JohnSundell/ImagineEngine) - Fast 2D game engine for Apple's platforms.
     - 🎉 [Iris](https://github.com/Chandram-Dutta/Iris) - Minimal 2D game engine in Swift.
     - 🎉 [OctopusKit](https://github.com/invadingoctopus/octopuskit) - 2D ECS game engine for iOS, macOS, tvOS.
 - Swift: Gui

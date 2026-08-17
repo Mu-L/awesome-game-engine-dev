@@ -12,6 +12,7 @@ With that said, here are a few basic guidelines for contributing:
 - The link you are adding should include the proper [license emoji](https://github.com/stevinz/awesome-game-engine-dev#legend). The link and description should not include any additional emoji.
 - The link's primary target should be a [GitHub](https://github.com/) repository (if applicable).
 - The link you are adding should be relevant to Game Engine Development. New categories are possible if they improve the scope of the list as it pertains to Game Engine Development.
+- The link you are adding should generally represent a stand-alone resource that is independently useful outside of the larger project it may belong to.
 - The link you are adding should be currently maintained and not deprecated. Exceptions may be allowed for resources that are well known, historically significant, or have large community support.
 - Resources whose primary purpose is AI-assisted development, LLM tooling, generative AI, or "vibe coding" are outside the scope of this list.
 - The links that are listed for each category are in alphabetical order. New links should be inserted within this order.
